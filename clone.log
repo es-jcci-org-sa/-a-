@@ -1,0 +1,97 @@
+[2026-07-15T18:01:00.674Z] Starting Website Cloner Pro {"targetUrl":"https://es.jcci.org.sa/files-portal/U2FsdGVkX1_RJ5EuawYTfCX6-e8APfHJTQMmZsx4i1vd_9PyyxqkpCK2WeB_4UjnXBTXvWvZebgiQkSGw5nFn9LTfQ","outDir":"E:\\Pusiness\\react-cloner-pro-v5-clean\\output","maxPages":100}
+[2026-07-15T18:01:17.623Z] Saved file {"file":"assets/favicon.ico","bytes":103373}
+[2026-07-15T18:01:17.707Z] Downloaded special file {"url":"https://es.jcci.org.sa/favicon.ico","dest":"assets/favicon.ico"}
+[2026-07-15T18:01:19.907Z] Crawling page {"url":"https://es.jcci.org.sa/files-portal/U2FsdGVkX1_RJ5EuawYTfCX6-e8APfHJTQMmZsx4i1vd_9PyyxqkpCK2WeB_4UjnXBTXvWvZebgiQkSGw5nFn9LTfQ","depth":0}
+[2026-07-15T18:01:22.260Z] Saved file {"file":"js/runtime.0edfa9919ae05899.js","bytes":4022}
+[2026-07-15T18:01:22.272Z] Byte-identical JS verified {"file":"js/runtime.0edfa9919ae05899.js","url":"https://es.jcci.org.sa/runtime.0edfa9919ae05899.js","ok":true,"bytes":4022,"sourceSha256":"b8917019c8c614c9cafe9cf79cf4caa5e947d671075fd321ff825d587a64e956","savedSha256":"b8917019c8c614c9cafe9cf79cf4caa5e947d671075fd321ff825d587a64e956"}
+[2026-07-15T18:01:22.684Z] Saved file {"file":"js/polyfills.42f2273b4b2ad4d5.js","bytes":35239}
+[2026-07-15T18:01:22.708Z] Byte-identical JS verified {"file":"js/polyfills.42f2273b4b2ad4d5.js","url":"https://es.jcci.org.sa/polyfills.42f2273b4b2ad4d5.js","ok":true,"bytes":35239,"sourceSha256":"ed913ae47997fed401673cf10a34b0f309f4aa9c3e59b922fa385b50a7fde23b","savedSha256":"ed913ae47997fed401673cf10a34b0f309f4aa9c3e59b922fa385b50a7fde23b"}
+[2026-07-15T18:01:22.863Z] Saved file {"file":"css/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css","bytes":31000}
+[2026-07-15T18:01:25.339Z] Saved file {"file":"js/scripts.fde64f2b91915339.js","bytes":499068}
+[2026-07-15T18:01:25.456Z] Byte-identical JS verified {"file":"js/scripts.fde64f2b91915339.js","url":"https://es.jcci.org.sa/scripts.fde64f2b91915339.js","ok":true,"bytes":499068,"sourceSha256":"e44e9540409a2cf5fff4f0ce80f250adff5a475cc3e4602ea7d7f7b2e0684dd2","savedSha256":"e44e9540409a2cf5fff4f0ce80f250adff5a475cc3e4602ea7d7f7b2e0684dd2"}
+[2026-07-15T18:01:26.210Z] Saved file {"file":"css/styles.0061646dd92f4e03.css","bytes":1096642}
+[2026-07-15T18:01:26.346Z] Saved file {"file":"js/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js","bytes":2008462}
+[2026-07-15T18:01:26.413Z] Byte-identical JS verified {"file":"js/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js","url":"https://raw.githack.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js","ok":true,"bytes":2008462,"sourceSha256":"49ca0e8cf21ebec37af15f98ce533edd51afb34f6e32b8ae2fe407aa09c6763f","savedSha256":"49ca0e8cf21ebec37af15f98ce533edd51afb34f6e32b8ae2fe407aa09c6763f"}
+[2026-07-15T18:01:30.791Z] Saved file {"file":"fonts/Tajawal-Regular.c926d31bbb85e9a4.otf","bytes":83116}
+[2026-07-15T18:01:46.192Z] Browser console {"type":"log","text":"unknown"}
+[2026-07-15T18:01:46.208Z] Browser console {"type":"log","text":""}
+[2026-07-15T18:01:47.099Z] Saved file {"file":"js/main.322028314028c71d.js","bytes":7105291}
+[2026-07-15T18:01:47.247Z] Byte-identical JS verified {"file":"js/main.322028314028c71d.js","url":"https://es.jcci.org.sa/main.322028314028c71d.js","ok":true,"bytes":7105291,"sourceSha256":"e42452ce5479e0b0416d9c92fdc109d0b4751e610a3fc7bfc79e2e606d5ecffd","savedSha256":"e42452ce5479e0b0416d9c92fdc109d0b4751e610a3fc7bfc79e2e606d5ecffd"}
+[2026-07-15T18:01:47.362Z] Saved file {"file":"assets/i18n/en.json","bytes":20}
+[2026-07-15T18:01:47.416Z] Saved file {"file":"assets/i18n/ar.json","bytes":32}
+[2026-07-15T18:01:48.350Z] Saved file {"file":"assets/images/chambers-logo/JeddahChamber-WhiteLogo.svg","bytes":396218}
+[2026-07-15T18:01:48.380Z] Saved file {"file":"api/871/client/features.json","bytes":896}
+[2026-07-15T18:01:51.200Z] Browser console {"type":"log","text":"url blob:https://es.jcci.org.sa/7d7f91bc-9038-4228-9213-2289efe2c952"}
+[2026-07-15T18:01:51.212Z] Browser console {"type":"log","text":"Warning: Setting up fake worker."}
+[2026-07-15T18:01:51.296Z] Browser console {"type":"error","text":"ERROR TypeError: Cannot read properties of undefined (reading 'nativeElement')\n    at Object.next (https://es.jcci.org.sa/main.322028314028c71d.js:2449:415900)\n    at Object.next (https://es.jcci.org.sa/main.322028314028c71d.js:2449:2607524)\n    at c._next (https://es.jcci.org.sa/main.322028314028c71d.js:2449:2607012)\n    at c.next (https://es.jcci.org.sa/main.322028314028c71d.js:2449:2606704)\n    at https://es.jcci.org.sa/main.322028314028c71d.js:2449:2618688\n    at R._next (https://es.jcci.org"}
+[2026-07-15T18:01:51.809Z] Saved file {"file":"api/backend/api/MyDocuments/ViewDocumentV2.json","bytes":661831}
+[2026-07-15T18:01:52.036Z] Saved file {"file":"api/https/es.jcci.org.sa/7d7f91bc-9038-4228-9213-2289efe2c952.json","bytes":661192}
+[2026-07-15T18:01:53.083Z] Saved file {"file":"fonts/Tajawal-Bold.a38b4347c7faf820.otf","bytes":87596}
+[2026-07-15T18:01:53.291Z] Auto scrolling page
+[2026-07-15T18:01:56.440Z] Expanding interactive content
+[2026-07-15T18:01:56.508Z] Interaction pass complete {"pass":1,"clicked":0}
+[2026-07-15T18:01:57.481Z] Auto scrolling page
+[2026-07-15T18:02:03.261Z] ERROR Request failed {"url":"https://es.jcci.org.sa/fa-duotone-900.fea2360d17b96439.woff2","method":"GET","type":"font","failure":{"errorText":"net::ERR_ABORTED"}}
+[2026-07-15T18:02:03.598Z] Browser console {"type":"log","text":"unknown"}
+[2026-07-15T18:02:03.753Z] Browser console {"type":"log","text":""}
+[2026-07-15T18:02:03.913Z] Saved file {"file":"js/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js","bytes":2008462}
+[2026-07-15T18:02:04.119Z] Byte-identical JS verified {"file":"js/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js","url":"https://raw.githack.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js","ok":true,"bytes":2008462,"sourceSha256":"49ca0e8cf21ebec37af15f98ce533edd51afb34f6e32b8ae2fe407aa09c6763f","savedSha256":"49ca0e8cf21ebec37af15f98ce533edd51afb34f6e32b8ae2fe407aa09c6763f"}
+[2026-07-15T18:02:04.230Z] Saved file {"file":"js/runtime.0edfa9919ae05899.js","bytes":4022}
+[2026-07-15T18:02:04.292Z] Byte-identical JS verified {"file":"js/runtime.0edfa9919ae05899.js","url":"https://es.jcci.org.sa/runtime.0edfa9919ae05899.js","ok":true,"bytes":4022,"sourceSha256":"b8917019c8c614c9cafe9cf79cf4caa5e947d671075fd321ff825d587a64e956","savedSha256":"b8917019c8c614c9cafe9cf79cf4caa5e947d671075fd321ff825d587a64e956"}
+[2026-07-15T18:02:04.534Z] Saved file {"file":"js/polyfills.42f2273b4b2ad4d5.js","bytes":35239}
+[2026-07-15T18:02:04.640Z] Byte-identical JS verified {"file":"js/polyfills.42f2273b4b2ad4d5.js","url":"https://es.jcci.org.sa/polyfills.42f2273b4b2ad4d5.js","ok":true,"bytes":35239,"sourceSha256":"ed913ae47997fed401673cf10a34b0f309f4aa9c3e59b922fa385b50a7fde23b","savedSha256":"ed913ae47997fed401673cf10a34b0f309f4aa9c3e59b922fa385b50a7fde23b"}
+[2026-07-15T18:02:05.323Z] Saved file {"file":"js/scripts.fde64f2b91915339.js","bytes":499068}
+[2026-07-15T18:02:05.407Z] Byte-identical JS verified {"file":"js/scripts.fde64f2b91915339.js","url":"https://es.jcci.org.sa/scripts.fde64f2b91915339.js","ok":true,"bytes":499068,"sourceSha256":"e44e9540409a2cf5fff4f0ce80f250adff5a475cc3e4602ea7d7f7b2e0684dd2","savedSha256":"e44e9540409a2cf5fff4f0ce80f250adff5a475cc3e4602ea7d7f7b2e0684dd2"}
+[2026-07-15T18:02:05.798Z] Saved file {"file":"js/main.322028314028c71d.js","bytes":7105291}
+[2026-07-15T18:02:05.980Z] Byte-identical JS verified {"file":"js/main.322028314028c71d.js","url":"https://es.jcci.org.sa/main.322028314028c71d.js","ok":true,"bytes":7105291,"sourceSha256":"e42452ce5479e0b0416d9c92fdc109d0b4751e610a3fc7bfc79e2e606d5ecffd","savedSha256":"e42452ce5479e0b0416d9c92fdc109d0b4751e610a3fc7bfc79e2e606d5ecffd"}
+[2026-07-15T18:02:11.837Z] Saved file {"file":"fonts/fa-duotone-900.fea2360d17b96439.woff2","bytes":394944}
+[2026-07-15T18:02:13.939Z] Browser console {"type":"log","text":"url blob:https://es.jcci.org.sa/6109140d-2e5c-4cb2-ab21-005f356aad26"}
+[2026-07-15T18:02:14.500Z] Browser console {"type":"log","text":"Warning: Setting up fake worker."}
+[2026-07-15T18:02:14.999Z] Browser console {"type":"error","text":"ERROR TypeError: Cannot read properties of undefined (reading 'nativeElement')\n    at Object.next (https://es.jcci.org.sa/main.322028314028c71d.js:2449:415900)\n    at Object.next (https://es.jcci.org.sa/main.322028314028c71d.js:2449:2607524)\n    at c._next (https://es.jcci.org.sa/main.322028314028c71d.js:2449:2607012)\n    at c.next (https://es.jcci.org.sa/main.322028314028c71d.js:2449:2606704)\n    at https://es.jcci.org.sa/main.322028314028c71d.js:2449:2618688\n    at R._next (https://es.jcci.org"}
+[2026-07-15T18:02:15.360Z] Auto scrolling page
+[2026-07-15T18:02:15.913Z] Saved file {"file":"api/https/es.jcci.org.sa/6109140d-2e5c-4cb2-ab21-005f356aad26.json","bytes":661180}
+[2026-07-15T18:02:16.046Z] Expanding interactive content
+[2026-07-15T18:02:16.237Z] Interaction pass complete {"pass":1,"clicked":0}
+[2026-07-15T18:02:17.220Z] Auto scrolling page
+[2026-07-15T18:02:21.556Z] Saved file {"file":"js/assets/js/intercom.js","bytes":906}
+[2026-07-15T18:02:22.863Z] Saved file {"file":"js/assets/lib/js/pdf.js","bytes":516024}
+[2026-07-15T18:02:23.747Z] Saved file {"file":"fonts/Tajawal-Light.66722e09412e4348.otf","bytes":82292}
+[2026-07-15T18:02:24.243Z] Saved file {"file":"fonts/Tajawal-Medium.a87ad9852ed65aa3.otf","bytes":84056}
+[2026-07-15T18:02:24.654Z] Saved file {"file":"fonts/Tajawal-ExtraBold.80a3e7cd41c32377.otf","bytes":98372}
+[2026-07-15T18:02:25.684Z] Saved file {"file":"css/css2_q_family-Roboto_wght_300_400_500-display-swap.css","bytes":768}
+[2026-07-15T18:02:25.976Z] Saved file {"file":"css/icon_q_family-Material_Icons.css","bytes":475}
+[2026-07-15T18:02:27.500Z] Saved file {"file":"fonts/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont_q_v-4.7.0.eot","bytes":165742}
+[2026-07-15T18:02:28.578Z] Saved file {"file":"fonts/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot","bytes":165742}
+[2026-07-15T18:02:29.013Z] Saved file {"file":"fonts/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont_q_v-4.7.0.woff2","bytes":77160}
+[2026-07-15T18:02:29.412Z] Saved file {"file":"fonts/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont_q_v-4.7.0.woff","bytes":98024}
+[2026-07-15T18:02:29.797Z] Saved file {"file":"fonts/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont_q_v-4.7.0.ttf","bytes":165548}
+[2026-07-15T18:02:30.257Z] Saved file {"file":"images/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont_q_v-4.7.0.svg","bytes":444379}
+[2026-07-15T18:02:31.152Z] Saved file {"file":"fonts/fa-brands-400.30c252b60a43c17c.woff2","bytes":105376}
+[2026-07-15T18:02:31.861Z] Saved file {"file":"fonts/fa-brands-400.04639e675f3ad19d.ttf","bytes":181504}
+[2026-07-15T18:02:34.210Z] Saved file {"file":"fonts/fa-duotone-900.8372a4c6bd8644ad.ttf","bytes":1097748}
+[2026-07-15T18:02:35.969Z] Saved file {"file":"fonts/fa-light-300.95275b21d02271e3.woff2","bytes":381828}
+[2026-07-15T18:02:38.111Z] Saved file {"file":"fonts/fa-light-300.022a57013d7b3353.ttf","bytes":971148}
+[2026-07-15T18:02:39.741Z] Saved file {"file":"fonts/fa-regular-400.8576d7cefc8b8922.woff2","bytes":349924}
+[2026-07-15T18:02:44.197Z] Saved file {"file":"fonts/fa-regular-400.8a40ed10e643ee0a.ttf","bytes":862360}
+[2026-07-15T18:02:45.796Z] Saved file {"file":"fonts/fa-solid-900.bfed0292989d50b8.woff2","bytes":297064}
+[2026-07-15T18:02:49.228Z] Saved file {"file":"fonts/fa-solid-900.464668fa4a5ecf05.ttf","bytes":757720}
+[2026-07-15T18:02:51.679Z] Saved file {"file":"fonts/fa-thin-100.534107bfe356b8f0.woff2","bytes":418280}
+[2026-07-15T18:02:58.602Z] Saved file {"file":"fonts/fa-thin-100.a80668846623824d.ttf","bytes":1068968}
+[2026-07-15T18:02:59.011Z] Saved file {"file":"images/icon-info.8a3c51aae01eccf6.png","bytes":339}
+[2026-07-15T18:02:59.338Z] Saved file {"file":"assets/images/icons/input_loader.svg","bytes":1000}
+[2026-07-15T18:02:59.814Z] Saved file {"file":"images/pointer-icon.f1f1dfd3dbaf8f08.png","bytes":313}
+[2026-07-15T18:03:08.022Z] Saved file {"file":"images/login-image.7143793c0b0d82d2.png","bytes":3314524}
+[2026-07-15T18:03:09.723Z] Saved file {"file":"fonts/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf","bytes":123812}
+[2026-07-15T18:03:10.156Z] Saved file {"file":"fonts/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf","bytes":123720}
+[2026-07-15T18:03:10.507Z] Saved file {"file":"fonts/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf","bytes":123904}
+[2026-07-15T18:03:11.028Z] Saved file {"file":"fonts/s/materialicons/v145/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf","bytes":356840}
+[2026-07-15T18:03:58.322Z] Extracted stable custom document and font report {"documentFile":"custom/document.pdf","bytes":495892,"webFonts":26,"pdfFonts":6}
+[2026-07-15T18:03:58.352Z] Saved file {"file":"css/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css","bytes":35880}
+[2026-07-15T18:03:58.416Z] Saved file {"file":"css/styles.0061646dd92f4e03.css","bytes":1216368}
+[2026-07-15T18:03:58.420Z] Saved file {"file":"css/css2_q_family-Roboto_wght_300_400_500-display-swap.css","bytes":723}
+[2026-07-15T18:03:58.437Z] Saved file {"file":"css/icon_q_family-Material_Icons.css","bytes":459}
+[2026-07-15T18:03:58.507Z] Saved file {"file":"files-portal/U2FsdGVkX1_RJ5EuawYTfCX6-e8APfHJTQMmZsx4i1vd_9PyyxqkpCK2WeB_4UjnXBTXvWvZebgiQkSGw5nFn9LTfQ/index.html","bytes":2024738}
+[2026-07-15T18:03:58.583Z] Saved file {"file":"index.html","bytes":2024634}
+[2026-07-15T18:03:58.747Z] Saved file {"file":"clone-report.html","bytes":2290}
+[2026-07-15T18:03:58.953Z] Export verification passed
+[2026-07-15T18:04:03.468Z] Clone complete {"outDir":"E:\\Pusiness\\react-cloner-pro-v5-clean\\output","pages":1,"files":85}
